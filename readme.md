@@ -41,20 +41,12 @@ Click on the option you want to install in this case click on Eclipse IDE for Ja
 *Accept the license and Ooomph. When is done installing just click on launch*
 
 ## Step 6
-Click on the option you want to install in this case click on Eclipse IDE for Java Developer and pick the directory you want to install in my case I want to install it on this directory
-![directory to install](/img/directory-to-install.png)
-
-*So I'm going to change root for opt*
-![installing eclipse ide for java developers](/img/installing-eclipse-ide-java-developer.gif)
-*During the installation maybe is going to ask you to accept unisgned content for Ooomph just click accept*
-
-## Step 7
 After launch it is going to ask you to create a workspace (A workspace is where Eclipse is going to keep all the eclipse projects by default)
 ![Eclipse workspace](/img/create-workspace.gif)
 ![Eclipse workspace 2](/img/create-workspace-2.gif)
 ![Eclipse IDE in Linux Mint](/img/eclipse-for-linux-mint.gif)
 
-## Step 8
+## Step 7
 
 To create a desktop icon run the next command in your terminal:
 ```
@@ -80,7 +72,7 @@ sudo chmod +x ~/.local/share/applications/eclipse.desktop
 ```
 ![Create Eclipse icon](/img/create-desktop-icon.gif)
 
-## Step 9
+## Step 8
 
 Now is time to open the folder where is the launcher.
 ```
