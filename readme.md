@@ -89,4 +89,28 @@ and then just execute again the launcher. Then you can find the launcher under M
 
 ![New Launcher](/img/new-launcher.gif)
 -----
-# Create Hello World app
+# Create Hello World app with text editor
+To do this just create a new directory you can name whatever you want and inside create a file hello-world.java and just paste this:
+```
+// Create the class HelloWorld
+class HelloWorld{
+  // Call the main() method to start our application
+  public static void main(String args[]){
+    // Print Hello World in terminal
+    System.out.println("Hola Mundo desde Java!");
+    System.out.println("Hello World form Java!");
+  }
+}
+```
+
+Now we need to compile our application to do this in your terminal type:
+```
+javac hello-world.java
+```
+
+This would create a new file called HelloWorld.class and now we need to run our app. In the terminal run:
+```
+java HelloWorld
+```
+
+and that is! you should see Hola Mundo desde Java! and Hello World from Java! in your terminal. Congrats! This is your first java app!

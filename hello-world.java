@@ -1,8 +1,9 @@
-// We create the class HelloWorld
+// Create the class HelloWorld
 class HelloWorld{
-  // We call the main() method to start our application
+  // Call the main() method to start our application
   public static void main(String args[]){
-    // WE print in line Hello World
-    System.out.println("Hello World!");
+    // Print Hello World in terminal
+    System.out.println("Hola Mundo desde Java!");
+    System.out.println("Hello World form Java!");
   }
 }
