@@ -96,3 +96,5 @@ and then just execute again the launcher. Then you can find the launcher under M
 ![Fix shared library](/img/fix-shared-library.gif)
 
 ![New Launcher](/img/new-launcher.gif)
+-----
+# Create Hello World app
