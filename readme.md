@@ -88,7 +88,7 @@ and then just execute again the launcher. Then you can find the launcher under M
 ![Fix shared library](/img/fix-shared-library.gif)
 
 ![New Launcher](/img/new-launcher.gif)
------
+____________
 # Create Hello World app with text editor
 To do this just create a new directory you can name whatever you want and inside create a file hello-world.java and just paste this:
 ```
